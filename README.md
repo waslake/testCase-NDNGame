@@ -6,6 +6,7 @@
 ## Контакты
 
 tg: @waslake
+<br>
 e-mail: egorgrigor@yandex.ru
 
 # Краткое описание и правила игры
